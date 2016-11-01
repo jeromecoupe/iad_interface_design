@@ -1,6 +1,6 @@
 # Cours IAD: Design d'interfaces
 
-Séminaires sur le design d'interfaces digitale.
+Séminaires sur le design d'interfaces digitales.
 
 Syllabus du cours donné à l'Institut des Arts de Diffusion par Jérôme Coupé.
 
