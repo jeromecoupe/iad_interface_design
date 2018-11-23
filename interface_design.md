@@ -119,7 +119,7 @@ Un exercice difficile en typographie consiste à trouver plusieurs polices qui v
 - **Caractéristiques communes**: cherchez des polices qui sont suffisamment différentes que pour êtres distinguées facilement l'une de l'autre mais qui ont des caractéristiques communes (formes des lettres, x-height, etc.) ou qui ont été développées dans un même contexte ou selon un conceopt similaire.
 - **Outils**: des outils et services tels que Google Fonts ou Typekit vous proposent des pistes intéressantes pour le font pairing. N'hésitez pas non plus à inspecter des sites que vous appréciez au niveau typographique.
 
-*Exercice: Voici [quelques](http://femmebot.github.io/google-type/) [exemples](http://hellohappy.org/beautiful-web-type/) de typographies réussies avec Google fonts. Analysons-les.*
+*Exercice: Voici [quelques](http://femmebot.github.io/google-type/) [exemples](https://beautifulwebtype.com) de typographies réussies avec Google fonts. Analysons-les.*
 
 *Exercice: choisir deux polices*
 
