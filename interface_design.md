@@ -73,14 +73,15 @@ En regard des personas, il importe de se pencher sur les objectifs business. Pou
 
 Lors de cette phase de recherche, il est bon de se pencher sur la compétition. Quels sont les sites ou les aplications qui répondent aux même besoins? Quels sont leurs points forts et leurs points faibles?
 
-Au niveau du design, deux exercices sont assez utiles.
+Au niveau du design, trois exercices sont assez utiles.
 
-- *Adjectifs et priorités*: demander à tous de noter sur un post-it trois adjectifs qu'ils souhaitent que les clients ressentent en visitant le site ou en utilisant l'application. Chacun vote ensuite pour deux adjectifs et les trois plus importants sont classés par priorité.
-- *Design brief à l'instinct*: rassembler 15 à 20 sites ou applications avec des styles graphiques très différents. Ces exemples sont passés en revue et chacun donne une note de 1 à 5. Une fois les moyennes établies, discuter des 3 premiers et des trois derniers vous donnera un bon design brief.
+- _Adjectifs et priorités_: demander à tous de noter sur un post-it trois adjectifs qu'ils souhaitent que les clients ressentent en visitant le site ou en utilisant l'application. Chacun vote ensuite pour deux adjectifs et les trois plus importants sont classés par priorité.
+- _Risques majeurs et mineurs_ demander à tous de noter sur un post-it trois risques pour le projet. Une fois tous les risques présentés, chacun vote pour deux risques. Ceux-ci sont ensuite classés par priorité.
+- _Design brief à l'instinct_: rassembler 15 à 20 sites ou applications avec des styles graphiques très différents. Ces exemples sont passés en revue et chacun donne une note de 1 à 5. Une fois les moyennes établies, discuter des 3 premiers et des trois derniers vous donnera un bon design brief.
 
 Les dernières choses à aborder tiennent à la structure générale de l'application ou du site. Une architecture d'information et / ou des [wireflows](https://dribbble.com/shots/2248785-Web-Wireframes-UX-Flow/attachments/420198) réalisés en petits groupes peuvent vous donner une bonne approximation de la structure souhaitée. Il s'agit d'un élément important dans la mesure où il va être matérialisé par les interfaces de navigation qui sont une contrainte importante au niveau du design.
 
-*Exercice: @TODO*
+_Exercice: Faire l'exercice sur un projet donné_
 
 ### 2. Couleurs
 
@@ -94,7 +95,7 @@ Une autre méthode efficace pour cérer une palette de de couleurs harmonieuse c
 
 Un dernier conseil, [évitez le noir pur dans vos palettes](https://ianstormtaylor.com/design-tip-never-use-black/). Afin dêtre dans la gamme partez plutôt de votre couleur de base et saturez-là pour obtenir une couleur proche du noir mais contenant votre couleur de base.
 
-*Exercice: créer une palette de couleurs simple*
+_Exercice: créer une palette de couleurs simple_
 
 ### 3. Typographie
 
@@ -106,7 +107,7 @@ Il va falloir choisir une ou deux polices et ensuite créer un échelle typograo
 
 Pour commencer, il est important de poser des limites. Les fichiers de polices sont des ressources externes et charger une police, une graisse ou un style supplémentaire ajoutera au poids de vos pages. En général on travaillera donc avec une ou deux polices maximum et un nombre limité de variantes en termes de graisses et de styles.
 
-*Exercice: Google Font et poids des fichiers de police*
+_Exercice: Google Font et poids des fichiers de police_
 
 Votre premier choix devra sans doute être la police que vous utiliserez pour votre corps de texte. Il vous faut une police solide et de lisible qui permettra aux autres éléments textuels importants (titres, calls to action) de ressortir. Préférez des polices avec une x-height élevée et peu de fioritures. Soyez également attentif à ce que la police choisie possède plusieurs graisses et variantes (au moins bold et italique). Les polices avec plusieurs graisses sont intéressantes de par la variété potentielle qu'elles proposent.
 
@@ -119,9 +120,9 @@ Un exercice difficile en typographie consiste à trouver plusieurs polices qui v
 - **Caractéristiques communes**: cherchez des polices qui sont suffisamment différentes que pour êtres distinguées facilement l'une de l'autre mais qui ont des caractéristiques communes (formes des lettres, x-height, etc.) ou qui ont été développées dans un même contexte ou selon un conceopt similaire.
 - **Outils**: des outils et services tels que Google Fonts ou Typekit vous proposent des pistes intéressantes pour le font pairing. N'hésitez pas non plus à inspecter des sites que vous appréciez au niveau typographique.
 
-*Exercice: Voici [quelques](http://femmebot.github.io/google-type/) [exemples](https://beautifulwebtype.com) de typographies réussies avec Google fonts. Analysons-les.*
+_Exercice: Voici [quelques](http://femmebot.github.io/google-type/) [exemples](http://hellohappy.org/beautiful-web-type/) de typographies réussies avec Google fonts. Analysons-les._
 
-*Exercice: choisir deux polices*
+_Exercice: choisir deux polices_
 
 #### Compositions typographiques
 
@@ -137,9 +138,9 @@ Un élément important dans vos compositions typographiques est de faire varier 
 - alignement (`text-align`): left, right, center, justify
 - espace (`margin`, `padding`, `line-height`, `letter-spacing`): margins, paddings, interligne, letter spacing
 
-*Exercice: chercher 5 compositions typographiques sur Dribble et expliquer quels sont les outils utilisés*
+_Exercice: chercher 5 compositions typographiques sur Dribble et expliquer quels sont les outils utilisés_
 
-*Exercice: utiliser la typographie et Google fonts pour designer les divers éléments d'un blogpost et des paroles d'un track de hip-hop, d'abord dans Figma et puis dans le code*
+_Exercice: utiliser la typographie et Google fonts pour designer les divers éléments d'un blogpost et des paroles d'un track de hip-hop, d'abord dans Figma et puis dans le code_
 
 #### Echelle typographique et rythme vertical
 
@@ -151,25 +152,25 @@ Personellement, [je ne souscris pas forcément à une grille stricte](http://jas
 
 Cette grille typographique sert également à la gestion des espaces dans les composants: boutons, listes et autres éléments utilisent également cette grille typographique.
 
-*Exercice: rythme vertical et typographie pour trois cartes côte à côte avec des boutons de call to action*
+_Exercice: rythme vertical et typographie pour trois cartes côte à côte avec des boutons de call to action_
 
-*Exercice: rythme vertical et sections d'un layout*
+_Exercice: rythme vertical et sections d'un layout_
 
 ### 4. Layout et mise en page
 
 En design, les grilles sont un outil essentiel. Elles vous permettent de structurer vos contenus et de créer des mises en page complexes dont les élements sont connectés les uns au autres par une structure sous-jascente.
 
-  > Nothing could be more useful to reach our intention than the Grid. The grid represents the basic structure of our graphic design, it helps to organize the content, it provides consistency, it gives an orderly look and it projects a level of intellectual elegance that we like to express.
+> Nothing could be more useful to reach our intention than the Grid. The grid represents the basic structure of our graphic design, it helps to organize the content, it provides consistency, it gives an orderly look and it projects a level of intellectual elegance that we like to express.
 
-  > Massimo Vignelli. The Vignelli Canon
+> Massimo Vignelli. The Vignelli Canon
 
 En venant du print et de ses canevas fixes, la question se pose naturellement, comment créer une grille alors que le canevas global change constamment?
 
 La réponse est la même que pour le reste: vos grilles doivent être fluides. La technique la plus utilisée est de garder des gutters fixes, tandis que la largeur et le nombre de colonnes change. Là où un design sur petits écrans utilisera une grille de 2 ou 3 colonnes maximum, un design sur un grand écran peut utiliser 8, 10, 12 ou 16 colonnes par exemple.
 
-*Exercice: reconstruire la grille du [New York Times](nytimes.com)*
+_Exercice: reconstruire la grille du [New York Times](nytimes.com)_
 
-*Exercice: reconstruire la grille de [Steele Brand Co](https://dribbble.com/shots/2899485-Steele-Brand-Co/attachments/600278)*
+_Exercice: reconstruire la grille de [Steele Brand Co](https://dribbble.com/shots/2899485-Steele-Brand-Co/attachments/600278)_
 
 Il existe deux grandes méthodes pour créer ces grilles:
 
@@ -187,11 +188,11 @@ Si un nombre de colonnes pair comme 8, 10, 12 ou 18 apporte un grand équilibre 
 
 En parlant de dynamisme, n'oubliez pas que vous pouvez avoir des grilles sans gutter ou encore laisser des colonnes vides dans vos designs.
 
-*Exercice: design d'une grille responsive symétrique pour trois tailles d'écran*
+_Exercice: design d'une grille responsive symétrique pour trois tailles d'écran_
 
-*Exercice: design d'une grille responsive asymétrique pour trois tailles d'écran*
+_Exercice: design d'une grille responsive asymétrique pour trois tailles d'écran_
 
-*Exercice: expérimenter avec des colonnes vides*
+_Exercice: expérimenter avec des colonnes vides_
 
 ### 5. Design web: documents de delivery
 
@@ -231,7 +232,7 @@ Les avantages sont multiples:
 - une fois en ligne, ces prototypes peuvent être consultés et modifiés par tous
 - les patterns de navigation et la forme des divers contenus peuvent être testés rapidement
 
-##### Moodboards and elements collages
+##### Elements collages
 
 Plutôt que de fournir au client des “mockups” sur Sketch, Figma ou Photoshop dans lesquels les moindres éléments des pages sont designés, il est plus facile et plus rapide d’explorer diverses pistes graphiques à l’aide de ce que Dan Mall appelle des "[elements collages](http://v3.danielmall.com/articles/rif-element-collages/)".
 
@@ -240,6 +241,8 @@ De tels elements collages ou [moodboards](https://thomasbyttebier.be/blog/mood-b
 Sketch, Figma ou Framer sont encore présents dans le processus, mais la philosophie change.
 
 Il ne s'agit plus de produire des designs finalisés mais de pouvoir rapidement tester et valider des idées pour ensuite pouvoir travailler de façon itérative et collaborative.
+
+_Exercice: réaliser un elements collage dans Figma_
 
 #### Designers hybrides
 
@@ -261,8 +264,6 @@ Cela requiert des changements dans les processus et workflow utilisés mais aus
 
 > Drew Clemens - Smashing Magazine
 
-*Exercice: réaliser un elements collage dans Figma*
-
 ## Ressources
 
 - [Design Principles: Visual Perception And The Principles Of Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/) - Smashing Magazine
@@ -274,4 +275,5 @@ Cela requiert des changements dans les processus et workflow utilisés mais aus
 - [From print, to digital, and beyond …](https://www.youtube.com/watch?v=42RXq0fgP24) (video) - Mark Porter
 - [Objectified](https://www.youtube.com/watch?v=e52fYCYiPok) (film) - Gary Hustwit
 - [Exercices, ressources et déroulement d’un Design Sprint](https://github.com/thoughtbot/design-sprint) - Thoughtbot
+- [Inspired Design Decisions: Pressing Matters](https://www.smashingmagazine.com/2019/07/inspired-design-decisions-pressing-matters/) - Smashing Magazine - Andy Clarke
 - [Atomic Design](http://atomicdesign.bradfrost.com/chapter-1/) (particulièrement pour le premier chapitre) - Brad Frost
