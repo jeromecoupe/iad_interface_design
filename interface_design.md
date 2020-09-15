@@ -2,11 +2,11 @@
 
 Le but de ce cours est de vous donner les bases théoriques, graphiques et les bonnes pratiques en terme de design d'interfaces et d'expérience utilisateur, que cela soit pour des sites de contenus ou des applications.
 
-Pour cela, nous allons nous pencher sur les divers éléments importants dans un design web ainsi que sur les livrables à utiliser.
+Pour cela, nous allons nous pencher sur les divers éléments importants dans une interface ainsi que sur les livrables à utiliser.
 
 ## Principes de base
 
-Sur le web, les designers doivent gérer trois grandes inconnues, auxquelles répondent trois grands principes.
+Avec le web ou les applications, les designers doivent gérer trois grandes inconnues, auxquelles répondent trois grands principes.
 
 ### L'inconnue du canevas & mobile first responsive design
 
@@ -61,7 +61,7 @@ Après avoir introduit le sujet par un peu de théorie, passons à la pratique. 
 2. Couleurs
 3. Typographie
 4. Layout et mise en page
-5. Livrables pour le design web
+5. Livrables
 
 ### 1. Recherche et stratégie
 
@@ -76,7 +76,7 @@ Lors de cette phase de recherche, il est bon de se pencher sur la compétition. 
 Au niveau du design, trois exercices sont assez utiles.
 
 - _Adjectifs et priorités_: demander à tous de noter sur un post-it trois adjectifs qu'ils souhaitent que les clients ressentent en visitant le site ou en utilisant l'application. Chacun vote ensuite pour deux adjectifs et les trois plus importants sont classés par priorité.
-- _Risques majeurs et mineurs_ demander à tous de noter sur un post-it trois risques pour le projet. Une fois tous les risques présentés, chacun vote pour deux risques. Ceux-ci sont ensuite classés par priorité.
+- _Risques majeurs et mineurs_ demander à tous de noter sur un post-it trois risques pour le projet. Une fois tous les risques présentés, chacun vote pour deux risques. Ceux-ci sont ensuite classés par ordre de priorité.
 - _Design brief à l'instinct_: rassembler 15 à 20 sites ou applications avec des styles graphiques très différents. Ces exemples sont passés en revue et chacun donne une note de 1 à 5. Une fois les moyennes établies, discuter des 3 premiers et des trois derniers vous donnera un bon design brief.
 
 Les dernières choses à aborder tiennent à la structure générale de l'application ou du site. Une architecture d'information et / ou des [wireflows](https://dribbble.com/shots/2248785-Web-Wireframes-UX-Flow/attachments/420198) réalisés en petits groupes peuvent vous donner une bonne approximation de la structure souhaitée. Il s'agit d'un élément important dans la mesure où il va être matérialisé par les interfaces de navigation qui sont une contrainte importante au niveau du design.
@@ -91,9 +91,9 @@ Commencer par choisir une couleur principale en rapport avec votre branding ou q
 
 Une fois que vous avez deux (maximum trois) couleurs complémentaires, vous pouvez utiliser votre application de design favorite et [des techniques reposant sur des layers](https://www.smashingmagazine.com/2017/07/advanced-color-palettes-photoshop-sketch-affinity-designer/) pour démultiplier vos options tout en restant dans la gamme. Il vous reste ensuite à déterminer une gamme de gris contenant votre couleur principale et vous voilà paré.
 
-Une autre méthode efficace pour cérer une palette de de couleurs harmonieuse consiste à partir de photos de paysage / de nature. Adobe Color CC possède une fonction qui vous y aidera.
+Une autre méthode efficace pour cérer une palette de de couleurs harmonieuse consiste à partir de photos de paysages / de nature. Adobe Color CC possède une fonction qui vous y aidera.
 
-Un dernier conseil, [évitez le noir pur dans vos palettes](https://ianstormtaylor.com/design-tip-never-use-black/). Afin dêtre dans la gamme partez plutôt de votre couleur de base et saturez-là pour obtenir une couleur proche du noir mais contenant votre couleur de base.
+Un dernier conseil, [évitez le noir pur dans vos palettes](https://ianstormtaylor.com/design-tip-never-use-black/). Afin dêtre dans la gamme partez plutôt de votre couleur de base et saturez-là pour obtenir une couleur proche du noir mais contenant votre couleur de base. Vous pouvez aussi travailler avec un layer noir sur votre couleur de base en règlant son opacité à 90 ou 95%.
 
 _Exercice: créer une palette de couleurs simple_
 
@@ -140,7 +140,7 @@ Un élément important dans vos compositions typographiques est de faire varier 
 
 _Exercice: chercher 5 compositions typographiques sur Dribble et expliquer quels sont les outils utilisés_
 
-_Exercice: utiliser la typographie et Google fonts pour designer les divers éléments d'un blogpost et des paroles d'un track de hip-hop, d'abord dans Figma et puis dans le code_
+_Exercice: utiliser la typographie et Google fonts pour designer les divers éléments d'un blogpost et des paroles d'un track de hip-hop dans Figma_
 
 #### Echelle typographique et rythme vertical
 
@@ -152,7 +152,7 @@ Personellement, [je ne souscris pas forcément à une grille stricte](http://jas
 
 Cette grille typographique sert également à la gestion des espaces dans les composants: boutons, listes et autres éléments utilisent également cette grille typographique.
 
-_Exercice: rythme vertical et typographie pour trois cartes côte à côte avec des boutons de call to action_
+_Exercice: rythme vertical et typographie pour trois cartes côte à côte (images, titre, intro, call to actions)_
 
 _Exercice: rythme vertical et sections d'un layout_
 
