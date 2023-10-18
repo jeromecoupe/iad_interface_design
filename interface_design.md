@@ -6,7 +6,7 @@ Pour cela, nous allons nous pencher sur les divers éléments importants dans un
 
 ## Principes de base
 
-Avec le web ou les applications, les designers doivent gérer trois grandes inconnues, auxquelles répondent trois grands principes.
+Avec le web comme avec le multimédia en général, les designers doivent gérer trois grandes inconnues, auxquelles répondent trois grands principes.
 
 ### L'inconnue du canevas & mobile first responsive design
 
